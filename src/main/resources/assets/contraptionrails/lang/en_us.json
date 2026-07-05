@@ -1,0 +1,13 @@
+{
+  "itemGroup.contraptionrails": "Example Mod Tab",
+  "block.contraptionrails.example_block": "Example Block",
+  "item.contraptionrails.example_item": "Example Item",
+
+  "contraptionrails.configuration.title": "Contraptionized Rails Configs",
+  "contraptionrails.configuration.section.contraptionrails.common.toml": "Contraptionized Rails Configs",
+  "contraptionrails.configuration.section.contraptionrails.common.toml.title": "Contraptionized Rails Configs",
+  "contraptionrails.configuration.items": "Item List",
+  "contraptionrails.configuration.logDirtBlock": "Log Dirt Block",
+  "contraptionrails.configuration.magicNumberIntroduction": "Magic Number Text",
+  "contraptionrails.configuration.magicNumber": "Magic Number"
+}
